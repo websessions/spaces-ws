@@ -4,7 +4,8 @@ import { useEffect } from "react";
 const globalStyles = css`
   @font-face {
     font-family: "Quicksand";
-    src: url("https://d27rt3a60hh1lx.cloudfront.net/fonts/Quicksand_Bold.otf");
+    /* src: url("https://d27rt3a60hh1lx.cloudfront.net/fonts/Quicksand_Bold.otf"); */
+    src: url("https://cdn.websessions.co/select/fonts/FTBasicSpace-Regular.woff2");
   }
 
   html {
